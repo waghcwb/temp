@@ -1,0 +1,9 @@
+{
+  "name": "temp",
+  "short_name": "temp",
+  "display": "minimal-ui",
+  "theme_color": "#131313",
+  "background_color": "#131313",
+  "description": "",
+  "icons": []
+}
